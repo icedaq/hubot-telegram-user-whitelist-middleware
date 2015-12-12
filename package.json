@@ -1,0 +1,25 @@
+{
+  "name": "hubot-telegram-user-whitelist-middleware",
+  "version": "1.0.0",
+  "description": "Adds ability to whitelist users in telegram.",
+  "main": "index.coffee",
+  "dependencies": {
+    "hoek": "^2.14.0"
+  },
+  "license": "apache-2.0",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "whitelist",
+    "telegram"
+  ],
+  "author": "Pascal Liniger [pascal.liniger@gmail.com]",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icedaq/hubot-telegram-user-whitelist-middleware.git"                                                                                                    
+  },
+  "bugs": {
+    "url": "https://github.com/icedaq/hubot-telegram-user-whitelist-middleware/issues"
+  },
+  "homepage": "https://github.com/icedaq/hubot-telegram-user-whitelist-middleware#readme"
+}
